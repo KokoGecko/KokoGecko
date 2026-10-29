@@ -25,7 +25,7 @@
 
 ## currently building
 
-- **Trade Gecko**: my own trading tracker
+- **Trade Gecko**: my own quant trading model and tracker
 - **Gecko Web**: rain prediction web app (Project Monsoon)
 - **[kokogecko.dev](https://kokogecko.dev)**: my retro-platformer portfolio site
 
